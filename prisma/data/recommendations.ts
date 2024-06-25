@@ -1,0 +1,222 @@
+export const recommendations = [
+  {
+    "title": "Breaking Bad",
+    "service": "Netflix",
+    "description": "A high school chemistry teacher turned methamphetamine producer.",
+    "category": "Drama",
+    "numberOfRatings": 0,
+    "rating": 9.5,
+    "numberOfSeasons": 5,
+    "episodesPerSeason": [7, 13, 13, 13, 16],
+    "image": "breaking_bad.jpg"
+  },
+  {
+    "title": "Stranger Things",
+    "service": "Netflix",
+    "description": "A group of kids uncover supernatural forces and secret experiments in their small town.",
+    "category": "Sci-Fi",
+    "numberOfRatings": 0,
+    "rating": 8.7,
+    "numberOfSeasons": 4,
+    "episodesPerSeason": [8, 9, 8, 8],
+    "image": "stranger_things.jpg"
+  },
+  {
+    "title": "Game of Thrones",
+    "service": "HBO",
+    "description": "Nine noble families fight for control over the lands of Westeros.",
+    "category": "Fantasy",
+    "numberOfRatings": 0,
+    "rating": 9.3,
+    "numberOfSeasons": 8,
+    "episodesPerSeason": [10, 10, 10, 10, 10, 10, 7, 6],
+    "image": "game_of_thrones.jpg"
+  },
+  {
+    "title": "The Crown",
+    "service": "Netflix",
+    "description": "The story of the reign of Queen Elizabeth II.",
+    "category": "History",
+    "numberOfRatings": 0,
+    "rating": 8.6,
+    "numberOfSeasons": 4,
+    "episodesPerSeason": [10, 10, 10, 10],
+    "image": "the_crown.jpg"
+  },
+  {
+    "title": "The Mandalorian",
+    "service": "Disney+",
+    "description": "A lone gunfighter makes his way through the outer reaches of the galaxy.",
+    "category": "Sci-Fi",
+    "numberOfRatings": 0,
+    "rating": 8.8,
+    "numberOfSeasons": 2,
+    "episodesPerSeason": [8, 8],
+    "image": "the_mandalorian.jpg"
+  },
+  {
+    "title": "Friends",
+    "service": "HBO",
+    "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "category": "Comedy",
+    "numberOfRatings": 0,
+    "rating": 8.9,
+    "numberOfSeasons": 10,
+    "episodesPerSeason": [24, 24, 25, 24, 24, 25, 24, 24, 24, 18],
+    "image": "friends.jpg"
+  },
+  {
+    "title": "The Office",
+    "service": "Netflix",
+    "description": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "category": "Comedy",
+    "numberOfRatings": 0,
+    "rating": 8.9,
+    "numberOfSeasons": 9,
+    "episodesPerSeason": [6, 22, 25, 19, 28, 26, 24, 24, 25],
+    "image": "the_office.jpg"
+  },
+  {
+    "title": "The Witcher",
+    "service": "Netflix",
+    "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
+    "category": "Fantasy",
+    "numberOfRatings": 0,
+    "rating": 8.2,
+    "numberOfSeasons": 2,
+    "episodesPerSeason": [8, 8],
+    "image": "the_witcher.jpg"
+  },
+  {
+    "title": "Westworld",
+    "service": "HBO",
+    "description": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+    "category": "Sci-Fi",
+    "numberOfRatings": 0,
+    "rating": 8.6,
+    "numberOfSeasons": 3,
+    "episodesPerSeason": [10, 10, 8],
+    "image": "westworld.jpg"
+  },
+  {
+    "title": "The Boys",
+    "service": "Amazon",
+    "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+    "category": "Action",
+    "numberOfRatings": 0,
+    "rating": 8.7,
+    "numberOfSeasons": 2,
+    "episodesPerSeason": [8, 8],
+    "image": "the_boys.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "service": "Hulu",
+    "description": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "category": "Drama",
+    "numberOfRatings": 0,
+    "rating": 8.5,
+    "numberOfSeasons": 4,
+    "episodesPerSeason": [10, 13, 13, 10],
+    "image": "the_handmaids_tale.jpg"
+  },
+  {
+    "title": "Black Mirror",
+    "service": "Netflix",
+    "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+    "category": "Sci-Fi",
+    "numberOfRatings": 0,
+    "rating": 8.8,
+    "numberOfSeasons": 5,
+    "episodesPerSeason": [3, 4, 6, 6, 3],
+    "image": "black_mirror.jpg"
+  },
+  {
+    "title": "Narcos",
+    "service": "Netflix",
+    "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+    "category": "Crime",
+    "numberOfRatings": 0,
+    "rating": 8.8,
+    "numberOfSeasons": 3,
+    "episodesPerSeason": [10, 10, 10],
+    "image": "narcos.jpg"
+  },
+  {
+    "title": "Ozark",
+    "service": "Netflix",
+    "description": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+    "category": "Drama",
+    "numberOfRatings": 0,
+    "rating": 8.4,
+    "numberOfSeasons": 3,
+    "episodesPerSeason": [10, 10, 10],
+    "image": "ozark.jpg"
+  },
+  {
+    "title": "The Marvelous Mrs. Maisel",
+    "service": "Amazon",
+    "description": "A housewife in the 1950s decides to become a stand-up comic.",
+    "category": "Comedy",
+    "numberOfRatings": 0,
+    "rating": 8.7,
+    "numberOfSeasons": 3,
+    "episodesPerSeason": [8, 10, 8],
+    "image": "mrs_maisel.jpg"
+  },
+  {
+    "title": "Rick and Morty",
+    "service": "Hulu",
+    "description": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+    "category": "Animation",
+    "numberOfRatings": 0,
+    "rating": 9.2,
+    "numberOfSeasons": 4,
+    "episodesPerSeason": [11, 10, 10, 10],
+    "image": "rick_and_morty.jpg"
+  },
+  {
+    "title": "The Mandalorian",
+    "service": "Disney+",
+    "description": "A lone gunfighter makes his way through the outer reaches of the galaxy.",
+    "category": "Sci-Fi",
+    "numberOfRatings": 0,
+    "rating": 8.8,
+    "numberOfSeasons": 2,
+    "episodesPerSeason": [8, 8],
+    "image": "the_mandalorian.jpg"
+  },
+  {
+    "title": "The Umbrella Academy",
+    "service": "Netflix",
+    "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+    "category": "Fantasy",
+    "numberOfRatings": 0,
+    "rating": 8.0,
+    "numberOfSeasons": 2,
+    "episodesPerSeason": [10, 10],
+    "image": "umbrella_academy.jpg"
+  },
+  {
+    "title": "Euphoria",
+    "service": "HBO",
+    "description": "A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.",
+    "category": "Drama",
+    "numberOfRatings": 0,
+    "rating": 8.4,
+    "numberOfSeasons": 1,
+    "episodesPerSeason": [8],
+    "image": "euphoria.jpg"
+  },
+  {
+    "title": "The Expanse",
+    "service": "Amazon",
+    "description": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter, and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.",
+    "category": "Sci-Fi",
+    "numberOfRatings": 0,
+    "rating": 8.5,
+    "numberOfSeasons": 4,
+    "episodesPerSeason": [10, 13, 13, 10],
+    "image": "the_expanse.jpg"
+  }
+]
